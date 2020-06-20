@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/layout_activity_home.xml.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-hdpi_telephone.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-hdpi/telephone.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable_edit_text_bg.xml.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable/edit_text_bg.xml"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-mdpi_google_plus.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-mdpi/google_plus.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-ldpi_sign_in_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-ldpi/sign_in_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable_button_bg.xml.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable/button_bg.xml"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-ldpi_telephone.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-ldpi/telephone.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_telephone.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-xxxhdpi/telephone.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/layout_activity_sign_in.xml.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_google_plus.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-xxxhdpi/google_plus.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_telephone.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-xxhdpi/telephone.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-mdpi_sign_up_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-mdpi/sign_up_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_sign_in_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-xxhdpi/sign_in_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_sign_up_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-xxhdpi/sign_up_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-hdpi_google_plus.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-hdpi/google_plus.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/layout_activity_sign_up.xml.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_google_plus.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-xhdpi/google_plus.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_telephone.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-xhdpi/telephone.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_sign_up_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-xhdpi/sign_up_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_sign_up_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-xxxhdpi/sign_up_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-ldpi_google_plus.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-ldpi/google_plus.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-mdpi_sign_in_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-mdpi/sign_in_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-hdpi_sign_up_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-hdpi/sign_up_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_google_plus.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-xxhdpi/google_plus.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-hdpi_sign_in_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-hdpi/sign_in_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-ldpi_sign_up_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-ldpi/sign_up_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-mdpi_telephone.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-mdpi/telephone.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_sign_in_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-xxxhdpi/sign_in_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/abdelghani/Bureau/PharmacyApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_sign_in_background.png.flat",
+        "source": "/home/abdelghani/Bureau/PharmacyApp/app/src/main/res/drawable-xhdpi/sign_in_background.png"
+    }
+]

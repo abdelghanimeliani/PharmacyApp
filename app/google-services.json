@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "471990015828",
+    "firebase_url": "https://pharmacyapp-48380.firebaseio.com",
+    "project_id": "pharmacyapp-48380",
+    "storage_bucket": "pharmacyapp-48380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471990015828:android:b1e186fc29de5b54119ac1",
+        "android_client_info": {
+          "package_name": "com.example.pharmacyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471990015828-bk9crbnke29fq9thtdj8606kf4oilh7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pharmacyapp",
+            "certificate_hash": "bde5c38e40872bf4bf93e5125b4f0c04ca63f345"
+          }
+        },
+        {
+          "client_id": "471990015828-n4i0boe47c2k8ob4b0f10tkh4oj31juf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9srrVlivzVg1J3D_rF5rkmuyT5-OQSJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471990015828-n4i0boe47c2k8ob4b0f10tkh4oj31juf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
